@@ -1,2 +1,6 @@
+used methods are
+Date method: Date();
+this method used for current date and time.
+
 Netlify link
-https://admezoomcar.netlify.app/
+https://zoomcarassigment.netlify.app/
